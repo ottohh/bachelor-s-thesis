@@ -11,3 +11,5 @@ detect_frame_change.py was used to determine when the camera started to move to 
 calculate_coordinates_aruco.py was used as a demo in the seminar to show people what pose estimation does. The cube follows the camera movement.
 
 create_marker.py and calibrate_camera.py were used for marker creation and camera calibration.
+
+record_video.py is for recording .avi video where the camera settings, such as focal length, do not automatically change during the recording. 
